@@ -1,0 +1,17 @@
+# -*- coding: UTF-8 -*-
+
+print("future value of $1 after n years")
+y=0
+fv = 0
+
+while y <= 100:
+	f = 0.95 ↑ y
+	fv += f
+	print("%d	%.9f	%.9f" % (y, f, fv))
+	y += 1
+
+γ = 0.95
+dv = 1.0
+fv = dv / (1 − γ)
+print("…")
+print("∞	~0	%.9f" % fv)

@@ -1,0 +1,32 @@
+import csv
+import math, numpy
+
+#f = "kcg_201207_tac.csv"	 # 63.00
+#f = "kcg_201208_tac.csv"	 # 17.27
+#f = "kcg_201207-08_tac.csv"	# 11.27
+f = "kcg_201209_tac.csv"	 # 126.77
+
+daily_r = []
+
+with open(f, 'rb') as csvf:
+	rows = csv.reader(csvf, delimiter=',')
+	rows = filter(λ row: row[0] ≠ "Date", rows)
+	closes_adj = map(λ row: float(row[6]), rows)
+
+def print2f(f):
+	print("%.2f" % f)
+map(print2f, closes_adj)
+
+map(daily_r.append, closes_adj)
+
+k = len(rows)
+print("k	%d" % k)
+
+μ = numpy.mean(daily_r)
+print("μ	%.2f" % μ)
+
+σ = numpy.std(daily_r)
+print("σ	%.4f" % σ)
+
+S = math.sqrt(k) * μ ÷ σ
+print("S	%.4f" % S)

@@ -1,0 +1,519 @@
+/
+/fonts/vera/Vera/unicode.14.font
+/fonts/lucidasans/unicode.6.font
+          0          60
+f          0           7         234         234           2 
+          7          58         234           0           0 /github/compinvest/future_value.upy Del Snarf Undo | Look 
+f          0           9           8         122           4 
+          9          53         122           0           0 /github/compinvest/toascii.sed Del Snarf Undo | Look 
+f          0           5         220         251           6 
+          5          61         968           1           1 /n/local/home/jdc/Keyworded/compinvest/ Del Snarf Get | Look 
+f          0          20         159         159           8 
+         20          71         159           0           0 /n/local/home/jdc/QSTK-0.2.5/Examples/Basic/Aide Del Snarf Undo | Look 
+f          0          19        3427        3427          78 
+         19          74        3427           0           0 /n/local/home/jdc/QSTK-0.2.5/Examples/Basic/tutorial1.py Del Snarf | Look 
+F          1           0          99         186           2         186 
+         13          25         186           0           0 +Errors Del Snarf | Look 
+can't open /github/compinvest/capm_return.upy: '/github/compinvest/capm_return.upy' does not exist
+can't open /n/local/home/jdc/QSTK-0.2.5/Examples/Basic/Aide: '.../Aide' does not exist
+f          1           1         349         363           4 
+          1          23         753           0           0 /Aide Del Snarf | Look 
+F          1           2       10693       10709           6       10709 
+         10          44       10709           0           0 /github/compinvest/+Errors Del Snarf | Look 
+credo future_value.py
+future value of $1 after n years
+0	1.000000000	1.000000000
+1	0.950000000	1.950000000
+2	0.902500000	2.852500000
+3	0.857375000	3.709875000
+4	0.814506250	4.524381250
+5	0.773780937	5.298162187
+6	0.735091891	6.033254078
+7	0.698337296	6.731591374
+8	0.663420431	7.395011806
+9	0.630249410	8.025261215
+10	0.598736939	8.623998154
+11	0.568800092	9.192798247
+12	0.540360088	9.733158334
+13	0.513342083	10.246500418
+14	0.487674979	10.734175397
+15	0.463291230	11.197466627
+16	0.440126669	11.637593296
+17	0.418120335	12.055713631
+18	0.397214318	12.452927949
+19	0.377353603	12.830281552
+20	0.358485922	13.188767474
+21	0.340561626	13.529329101
+22	0.323533545	13.852862645
+23	0.307356868	14.160219513
+24	0.291989024	14.452208538
+25	0.277389573	14.729598111
+26	0.263520094	14.993118205
+27	0.250344090	15.243462295
+28	0.237826885	15.481289180
+29	0.225935541	15.707224721
+30	0.214638764	15.921863485
+31	0.203906826	16.125770311
+32	0.193711484	16.319481795
+33	0.184025910	16.503507706
+34	0.174824615	16.678332320
+35	0.166083384	16.844415704
+36	0.157779215	17.002194919
+37	0.149890254	17.152085173
+38	0.142395741	17.294480914
+39	0.135275954	17.429756869
+40	0.128512157	17.558269025
+41	0.122086549	17.680355574
+42	0.115982221	17.796337795
+43	0.110183110	17.906520906
+44	0.104673955	18.011194860
+45	0.099440257	18.110635117
+46	0.094468244	18.205103361
+47	0.089744832	18.294848193
+48	0.085257590	18.380105784
+49	0.080994711	18.461100494
+50	0.076944975	18.538045470
+51	0.073097727	18.611143196
+52	0.069442840	18.680586036
+53	0.065970698	18.746556735
+54	0.062672163	18.809228898
+55	0.059538555	18.868767453
+56	0.056561627	18.925329080
+57	0.053733546	18.979062626
+58	0.051046869	19.030109495
+59	0.048494525	19.078604020
+60	0.046069799	19.124673819
+61	0.043766309	19.168440128
+62	0.041577994	19.210018122
+63	0.039499094	19.249517216
+64	0.037524139	19.287041355
+65	0.035647932	19.322689287
+66	0.033865536	19.356554823
+67	0.032172259	19.388727082
+68	0.030563646	19.419290728
+69	0.029035464	19.448326191
+70	0.027583690	19.475909882
+71	0.026204506	19.502114388
+72	0.024894281	19.527008668
+73	0.023649567	19.550658235
+74	0.022467088	19.573125323
+75	0.021343734	19.594469057
+76	0.020276547	19.614745604
+77	0.019262720	19.634008324
+78	0.018299584	19.652307908
+79	0.017384605	19.669692512
+80	0.016515374	19.686207887
+81	0.015689606	19.701897492
+82	0.014905125	19.716802618
+83	0.014159869	19.730962487
+84	0.013451876	19.744414363
+85	0.012779282	19.757193644
+86	0.012140318	19.769333962
+87	0.011533302	19.780867264
+88	0.010956637	19.791823901
+89	0.010408805	19.802232706
+90	0.009888365	19.812121071
+91	0.009393946	19.821515017
+92	0.008924249	19.830439266
+93	0.008478037	19.838917303
+94	0.008054135	19.846971438
+95	0.007651428	19.854622866
+96	0.007268857	19.861891723
+97	0.006905414	19.868797136
+98	0.006560143	19.875357280
+99	0.006232136	19.881589416
+100	0.005920529	19.887509945
+credo future_value.py
+  File "future_value.py", line 14
+SyntaxError: Non-ASCII character '\xe2' in file future_value.py on line 14, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+credo future_value.py error: host: exit: 1
+credo future_value.py
+future value of $1 after n years
+0	1.000000000	1.000000000
+1	0.950000000	1.950000000
+2	0.902500000	2.852500000
+3	0.857375000	3.709875000
+4	0.814506250	4.524381250
+5	0.773780937	5.298162187
+6	0.735091891	6.033254078
+7	0.698337296	6.731591374
+8	0.663420431	7.395011806
+9	0.630249410	8.025261215
+10	0.598736939	8.623998154
+11	0.568800092	9.192798247
+12	0.540360088	9.733158334
+13	0.513342083	10.246500418
+14	0.487674979	10.734175397
+15	0.463291230	11.197466627
+16	0.440126669	11.637593296
+17	0.418120335	12.055713631
+18	0.397214318	12.452927949
+19	0.377353603	12.830281552
+20	0.358485922	13.188767474
+21	0.340561626	13.529329101
+22	0.323533545	13.852862645
+23	0.307356868	14.160219513
+24	0.291989024	14.452208538
+25	0.277389573	14.729598111
+26	0.263520094	14.993118205
+27	0.250344090	15.243462295
+28	0.237826885	15.481289180
+29	0.225935541	15.707224721
+30	0.214638764	15.921863485
+31	0.203906826	16.125770311
+32	0.193711484	16.319481795
+33	0.184025910	16.503507706
+34	0.174824615	16.678332320
+35	0.166083384	16.844415704
+36	0.157779215	17.002194919
+37	0.149890254	17.152085173
+38	0.142395741	17.294480914
+39	0.135275954	17.429756869
+40	0.128512157	17.558269025
+41	0.122086549	17.680355574
+42	0.115982221	17.796337795
+43	0.110183110	17.906520906
+44	0.104673955	18.011194860
+45	0.099440257	18.110635117
+46	0.094468244	18.205103361
+47	0.089744832	18.294848193
+48	0.085257590	18.380105784
+49	0.080994711	18.461100494
+50	0.076944975	18.538045470
+51	0.073097727	18.611143196
+52	0.069442840	18.680586036
+53	0.065970698	18.746556735
+54	0.062672163	18.809228898
+55	0.059538555	18.868767453
+56	0.056561627	18.925329080
+57	0.053733546	18.979062626
+58	0.051046869	19.030109495
+59	0.048494525	19.078604020
+60	0.046069799	19.124673819
+61	0.043766309	19.168440128
+62	0.041577994	19.210018122
+63	0.039499094	19.249517216
+64	0.037524139	19.287041355
+65	0.035647932	19.322689287
+66	0.033865536	19.356554823
+67	0.032172259	19.388727082
+68	0.030563646	19.419290728
+69	0.029035464	19.448326191
+70	0.027583690	19.475909882
+71	0.026204506	19.502114388
+72	0.024894281	19.527008668
+73	0.023649567	19.550658235
+74	0.022467088	19.573125323
+75	0.021343734	19.594469057
+76	0.020276547	19.614745604
+77	0.019262720	19.634008324
+78	0.018299584	19.652307908
+79	0.017384605	19.669692512
+80	0.016515374	19.686207887
+81	0.015689606	19.701897492
+82	0.014905125	19.716802618
+83	0.014159869	19.730962487
+84	0.013451876	19.744414363
+85	0.012779282	19.757193644
+86	0.012140318	19.769333962
+87	0.011533302	19.780867264
+88	0.010956637	19.791823901
+89	0.010408805	19.802232706
+90	0.009888365	19.812121071
+91	0.009393946	19.821515017
+92	0.008924249	19.830439266
+93	0.008478037	19.838917303
+94	0.008054135	19.846971438
+95	0.007651428	19.854622866
+96	0.007268857	19.861891723
+97	0.006905414	19.868797136
+98	0.006560143	19.875357280
+99	0.006232136	19.881589416
+100	0.005920529	19.887509945
+…
+∞	~0	20.000000000
+credo future_value.py
+future value of $1 after n years
+0	1.000000000	1.000000000
+1	0.950000000	1.950000000
+2	0.902500000	2.852500000
+3	0.857375000	3.709875000
+4	0.814506250	4.524381250
+5	0.773780937	5.298162187
+6	0.735091891	6.033254078
+7	0.698337296	6.731591374
+8	0.663420431	7.395011806
+9	0.630249410	8.025261215
+10	0.598736939	8.623998154
+11	0.568800092	9.192798247
+12	0.540360088	9.733158334
+13	0.513342083	10.246500418
+14	0.487674979	10.734175397
+15	0.463291230	11.197466627
+16	0.440126669	11.637593296
+17	0.418120335	12.055713631
+18	0.397214318	12.452927949
+19	0.377353603	12.830281552
+20	0.358485922	13.188767474
+21	0.340561626	13.529329101
+22	0.323533545	13.852862645
+23	0.307356868	14.160219513
+24	0.291989024	14.452208538
+25	0.277389573	14.729598111
+26	0.263520094	14.993118205
+27	0.250344090	15.243462295
+28	0.237826885	15.481289180
+29	0.225935541	15.707224721
+30	0.214638764	15.921863485
+31	0.203906826	16.125770311
+32	0.193711484	16.319481795
+33	0.184025910	16.503507706
+34	0.174824615	16.678332320
+35	0.166083384	16.844415704
+36	0.157779215	17.002194919
+37	0.149890254	17.152085173
+38	0.142395741	17.294480914
+39	0.135275954	17.429756869
+40	0.128512157	17.558269025
+41	0.122086549	17.680355574
+42	0.115982221	17.796337795
+43	0.110183110	17.906520906
+44	0.104673955	18.011194860
+45	0.099440257	18.110635117
+46	0.094468244	18.205103361
+47	0.089744832	18.294848193
+48	0.085257590	18.380105784
+49	0.080994711	18.461100494
+50	0.076944975	18.538045470
+51	0.073097727	18.611143196
+52	0.069442840	18.680586036
+53	0.065970698	18.746556735
+54	0.062672163	18.809228898
+55	0.059538555	18.868767453
+56	0.056561627	18.925329080
+57	0.053733546	18.979062626
+58	0.051046869	19.030109495
+59	0.048494525	19.078604020
+60	0.046069799	19.124673819
+61	0.043766309	19.168440128
+62	0.041577994	19.210018122
+63	0.039499094	19.249517216
+64	0.037524139	19.287041355
+65	0.035647932	19.322689287
+66	0.033865536	19.356554823
+67	0.032172259	19.388727082
+68	0.030563646	19.419290728
+69	0.029035464	19.448326191
+70	0.027583690	19.475909882
+71	0.026204506	19.502114388
+72	0.024894281	19.527008668
+73	0.023649567	19.550658235
+74	0.022467088	19.573125323
+75	0.021343734	19.594469057
+76	0.020276547	19.614745604
+77	0.019262720	19.634008324
+78	0.018299584	19.652307908
+79	0.017384605	19.669692512
+80	0.016515374	19.686207887
+81	0.015689606	19.701897492
+82	0.014905125	19.716802618
+83	0.014159869	19.730962487
+84	0.013451876	19.744414363
+85	0.012779282	19.757193644
+86	0.012140318	19.769333962
+87	0.011533302	19.780867264
+88	0.010956637	19.791823901
+89	0.010408805	19.802232706
+90	0.009888365	19.812121071
+91	0.009393946	19.821515017
+92	0.008924249	19.830439266
+93	0.008478037	19.838917303
+94	0.008054135	19.846971438
+95	0.007651428	19.854622866
+96	0.007268857	19.861891723
+97	0.006905414	19.868797136
+98	0.006560143	19.875357280
+99	0.006232136	19.881589416
+100	0.005920529	19.887509945
+…
+∞	~0	20.000000000
+2and20.upy
+future_value.upy
+kcg_sharpe.upy
+return.upy
+sharpe_ratio.upy
+--rw-r--r-- U 0 jdc jdc   10 Feb 24 11:46 2and20.upy.redep
+--rw-r--r-- U 0 jdc jdc    0 Feb 24 11:46 2and20.upy.redont
+--rw-r--r-- U 0 jdc jdc  359 Feb 24 11:47 2and20.upy
+--rw-r--r-- U 0 jdc jdc  335 Feb 24 11:47 2and20.upy.sums
+--rw-r--r-- U 0 jdc jdc    0 Feb 24 11:48 return.upy.redont
+--rw-r--r-- U 0 jdc jdc   10 Feb 24 11:48 return.upy.redep
+--rw-r--r-- U 0 jdc jdc  201 Feb 24 15:28 return.upy.sums
+--rw-r--r-- U 0 jdc jdc    0 Feb 24 23:31 sharpe_ratio.upy.redont
+--rw-r--r-- U 0 jdc jdc   16 Feb 24 23:31 sharpe_ratio.upy.redep
+--rw-r--r-- U 0 jdc jdc  238 Feb 25 00:08 return.upy
+--rw-r--r-- U 0 jdc jdc   23 Feb 25 21:42 kcg_sharpe.upy~
+--rw-r--r-- U 0 jdc jdc    0 Feb 25 21:44 kcg_sharpe.upy.redont
+--rw-r--r-- U 0 jdc jdc   14 Feb 25 21:44 kcg_sharpe.upy.redep
+--rw-r--r-- U 0 jdc jdc  622 Feb 26 20:22 kcg_sharpe.upy
+--rw-r--r-- U 0 jdc jdc 4047 Feb 26 20:22 kcg_sharpe.upy.sums
+--rw-r--r-- U 0 jdc jdc  292 Feb 27 22:19 sharpe_ratio.upy.sums
+--rw-r--r-- U 0 jdc jdc  321 Feb 27 22:19 sharpe_ratio.upy
+--rw-r--r-- U 0 jdc jdc    0 Feb 27 22:54 future_value.upy.redont
+--rw-r--r-- U 0 jdc jdc   16 Feb 27 22:54 future_value.upy.redep
+--rw-r--r-- U 0 jdc jdc  244 Feb 27 23:25 future_value.upy
+--rw-r--r-- U 0 jdc jdc  873 Feb 27 23:26 future_value.upy.sums
+--rw-r--r-- U 0 jdc jdc  280 Feb 28 20:34 capm_return.upy
+--rw-r--r-- U 0 jdc jdc  359 Feb 24 11:47 2and20.upy
+--rw-r--r-- U 0 jdc jdc  238 Feb 25 00:08 return.upy
+--rw-r--r-- U 0 jdc jdc  622 Feb 26 20:22 kcg_sharpe.upy
+--rw-r--r-- U 0 jdc jdc  321 Feb 27 22:19 sharpe_ratio.upy
+--rw-r--r-- U 0 jdc jdc  244 Feb 27 23:25 future_value.upy
+--rw-r--r-- U 0 jdc jdc  280 Feb 28 20:34 capm_return.upy
+
+2and20.upy
+return.upy
+kcg_sharpe.upy
+sharpe_ratio.upy
+future_value.upy
+capm_return.upy
+f          1           2         126         154           8 
+          2          46         684           0           0 /github/compinvest/Aide Del Snarf Undo | Look 
+F          1           4        1880        3044          92        3044 
+          6          64        3044           0           0 /n/local/home/jdc/Keyworded/compinvest/+Errors Del Snarf | Look 
+
+** (evince:22414): WARNING **: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 14: Having multiple values in <test> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+
+** (evince:28334): WARNING **: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 14: Having multiple values in <test> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+f          1          18         365         372          95 
+         18          66         372           1           1 /n/local/home/jdc/QSTK-0.2.5/Examples/Basic/ Del Snarf Get | Look 
+F          1           6        9672       10836          97       10836 
+         21          69       10836           0           0 /n/local/home/jdc/QSTK-0.2.5/Examples/Basic/+Errors Del Snarf | Look 
+sh: python: './python' file does not exist
+3333 "Sh":fail:'./python' file does not exist
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 14: Having multiple values in <test> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Pandas Version 0.7.3
+Scratch Directory:  /tmp/QSScratch
+Data Directory:  /usr/local/lib/python2.7/dist-packages/QSTK-0.2.5-py2.7.egg/QSTK/qstkutil/../QSData
+--rwxr-xr-x M 2 jdc jdc    530 Jan 16 22:40 getnames
+--rw-r--r-- M 2 jdc jdc     60 Jan 16 22:40 tutorial3portfolio.csv
+--rwxr-xr-x M 2 jdc jdc  18224 Jan 16 22:40 example-data.csv
+--rwxr-xr-x M 2 jdc jdc    757 Jan 16 22:40 plot2ddata.py
+--rw-r--r-- M 2 jdc jdc  69698 Jan 16 22:40 allsyms.csv
+--rw-r--r-- M 2 jdc jdc     73 Jan 16 22:40 example-syms.csv
+--rw-r--r-- M 2 jdc jdc   1102 Jan 16 22:40 gendata.py
+--rw-r--r-- M 2 jdc jdc   3427 Feb 16 17:17 tutorial1.py
+--rw-r--r-- M 2 jdc jdc   1513 Feb 16 17:17 timeseries-ex.py
+--rwxr-xr-x M 2 jdc jdc   2979 Feb 16 17:17 tutorial2.py
+--rw-r--r-- M 2 jdc jdc   3577 Feb 16 17:17 tutorial3.py
+--rw-r--r-- M 2 jdc jdc   3275 Feb 16 17:17 tutorial6.py
+--rw-r--r-- M 2 jdc jdc   1097 Feb 16 17:17 movingavg-ex.py
+--rw-r--r-- M 2 jdc jdc   2455 Feb 16 17:17 dataexample.py
+--rw-r--r-- M 2 jdc jdc   5524 Feb 16 17:17 tutorial8.py
+--rw-r--r-- M 2 jdc jdc   4669 Feb 16 17:17 tutorial7.py
+--rw-r--r-- M 2 jdc jdc   2590 Feb 16 22:50 tutorial4.py
+--rw-r--r-- M 2 jdc jdc   2999 Feb 16 22:52 tutorial5.py
+--rw-r--r-- M 2 jdc jdc     24 Feb 28 22:34 Aide
+--rw-rw-r-- M 2 jdc jdc  55736 Feb 28 22:34 adjustedclose.pdf
+--rw-rw-r-- M 2 jdc jdc  80328 Feb 28 22:34 normalized.pdf
+--rw-rw-r-- M 2 jdc jdc  14341 Feb 28 22:34 rets.pdf
+--rw-rw-r-- M 2 jdc jdc 304031 Feb 28 22:34 scatterSPXvXOM.pdf
+--rw-rw-r-- M 2 jdc jdc 304439 Feb 28 22:34 scatterSPXvGLD.pdf
+ls -tr
+getnames
+tutorial3portfolio.csv
+example-data.csv
+plot2ddata.py
+allsyms.csv
+example-syms.csv
+gendata.py
+tutorial1.py
+timeseries-ex.py
+tutorial2.py
+tutorial3.py
+tutorial6.py
+movingavg-ex.py
+dataexample.py
+tutorial8.py
+tutorial7.py
+tutorial4.py
+tutorial5.py
+Aide
+adjustedclose.pdf
+normalized.pdf
+rets.pdf
+scatterSPXvXOM.pdf
+scatterSPXvGLD.pdf
+
+** (evince:30311): WARNING **: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 14: Having multiple values in <test> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+
+** (evince:30324): WARNING **: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 14: Having multiple values in <test> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+
+** (evince:30335): WARNING **: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 14: Having multiple values in <test> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+
+** (evince:30346): WARNING **: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 14: Having multiple values in <test> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+
+** (evince:30358): WARNING **: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 14: Having multiple values in <test> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected
+Fontconfig warning: "/etc/fonts/conf.d/65-ttf-sil-andika.conf", line 32: Having multiple <family> in <alias> isn't supported and may not works as expected

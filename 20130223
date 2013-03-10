@@ -1,0 +1,44 @@
+nb course start time welcome
+tbalch: Welcome to Computational Investing, Part I. Yesterday our TAs
+Sourabh and Brian were putting final touches on the course.  We hit a
+snag when the coursera site had issues.  We're testing/checking
+everything out today, and will release it in a few hours.  Sorry for
+the delay.
+
+
+nb welcome course syllabus video lecture quiz discuss forum
+tbalch: Welcome to Computational Investing, Part I. The course is live now.¹
+You can access the course material through the tabs on the left panel.
+ ¹ dos chrome https://class.coursera.org/compinvesting1-002/class/index
+	Syllabus: Gives an overview of the course schedule.
+The prerequisites for the course and various other details.
+We strongly recommend you to read this before you start with the course.
+Video Lectures: Leads to the lectures for the current and previous weeks.
+Quizzes: Leads to the quizzes for the current and previous assignments.
+Discussion Forums: We'll be using Piazza for the forums in this class,
+please register yourself on piazza.  This will offer you a place to
+discuss problems and interact with other students and the instructors.
+Week Pages: There will be a page dedicated to each week of the course
+that will guide you through all the lectures, assignments, reading etc.
+	We strongly encourage you to use the discussion forums for any
+course problems that you encounter.  Please also consider helping your
+fellow students via these forums—the stronger the student community,
+the more successful the course!
+	On the right panel you can find the upcoming deadlines for new
+quizzes as well as the newly uploaded lectures.
+	This class will have several programming assignments in Python
+and will help you build a market simulator by the end of the class.
+There will be one programming related assignment everyweek starting
+the second week.
+	We hope you enjoy this course!  If you run into any troubles,
+the course forums are the best place to start.
+
+nb course software qstk python install
+tbalch: software for this course.  Hello again :-).  All of the assignments
+for this course will require you to use a Python-based software package
+called QSTK.  In order to make this process smooth, we will be
+spending time NEXT week to cover installation.  We will soon release
+videos that step you through the process.  If you want to get ahead of
+the game you can get started now.¹  If you run into any troubles,
+please visit the course forums at piazza.
+ ¹ http://wiki.quantsoftware.org/index.php?title=QSToolKit_Installation_Guide

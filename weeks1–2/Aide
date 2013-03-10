@@ -1,0 +1,21 @@
+Dump /github/compinvest/weeks1–2/dump
+Edit ,|sort|uniq
+Load /github/compinvest/weeks1–2/dump
+New capm_return.upy
+cp /n/local/home/jdc/Keyworded/compinvest/kcg* .
+credo 2and20.py
+credo future_value.py
+credo kcg_sharpe.py
+credo return.py
+credo sharpe_ratio.py
+echo '0	future_value.upy' > future_value.py.dep
+grep div /lib/keyboard
+host gedit ./kcg_sharpe.upy
+host tac kcg_201209.csv > kcg_201209_tac.csv
+ls -tr | grep '\.upy$'
+lsdo
+lsenv
+lssrc
+nbnow
+unicode 2212
+unicode −

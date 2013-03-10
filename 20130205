@@ -1,0 +1,43 @@
+nb welcome overview course
+tbalch: Welcome to Computational Investing, Part I! Computational
+Investing- Part I | Coursera Staff <noreply@coursera.org>. Feb 5.
+Dear Jason David Catena, Welcome to Computational Investing, Part I. I
+look forward to engaging with you on this challenging and interesting
+subject.  We will cover many exciting topics, and investigate them
+with hands-on "experiments" using Excel and the Python programming
+language.  Before we get started, please be sure this courses is
+suited for you.  Review the important points below.
+	Who this course is for: The course is intended for people with
+software programming experience and introductory level knowledge of
+investment practice.  The primary prerequisite is an excitement about
+the stock market.
+	Who this course is not for: If you already use advanced
+software tools such as Mean Variance Optimizers in your regular
+investing practice, you will probably find that you are
+"overqualified" for this course.
+	Prerequisites for project track: If you would like to receive
+a certificate of completion, you will have to turn in several
+programming projects using the Python programming language.
+You should have Python experience, and Unix and Python software
+installation experience (i.e., PyPI, apt-get, easy install).
+You should have a genuine interest in the stock market and an
+understanding of basic statistical principles such as probability
+distributions.
+	Prerequisites for preview/video only track: You are invited to
+watch the lectures in "preview mode." In this mode you do not have to
+complete the homework assignments and quizzes.  You will not receive a
+certificate in this track.  The course is designed so that the videos
+are useful even if you do not do the projects.  You will get the most
+out of the course if you have a genuine interest in the stock market
+and an understanding of basic statistical principles such as
+probability distributions.  The instructor assumes students have
+introductory level programming skills and a basic knowledge of
+statistics.  Algorithmic and statistical aspects of the course will be
+illustrated using Excel spreadsheets and Python programs, so
+familiarity with these tools is helpful.
+	Head start: If you'd like to get a head start, you can take a look at the
+website for the software we will use¹ or take a look at these two books.² ³
+ ¹ dos chrome http://wiki.quantsoftware.org 
+ ² Active Portfolio Management: A Quantitative Approach for Producing
+Superior Returns and Controlling Risk by Richard Grinold, Ronald Kahn
+ ³ All About Hedge Funds: The Easy Way to Get Started by Robert Jaeger 

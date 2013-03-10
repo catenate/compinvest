@@ -1,0 +1,17 @@
+β_i = 
+print("market sensitivity	%f" % β_i)
+
+r_m_f = 
+print("	risk-free return	%f" % r_m_f)
+
+r_m_e = 
+print("	excess return	%f" % r_m_e)
+
+r_m = r_m_f + r_m_e
+print("market return	%f" % r_m)
+
+α_i = 
+print("residual	%f" % α_i)
+
+r_i = β_i * r_m + α_i
+print("return	%f" % α_i)

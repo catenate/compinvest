@@ -1,0 +1,9 @@
+#nb python code example calculate formula annual value return
+value_start = 400.0
+print("start value %d" % value_start)
+
+value_end = 470.0
+print("end value %d" % value_end)
+
+ret = value_end ÷ value_start − 1.0
+print("return %f" % ret)

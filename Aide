@@ -1,0 +1,17 @@
+/n/local/home/jdc/Keyworded/compinvest
+/n/local/home/jdc/QSTK-0.2.5/
+/n/local/home/jdc/QSTK-0.2.5/Examples/Basic/Aide
+Dump /github/compinvest/dump
+Edit ,|sort|uniq
+Load /github/compinvest/dump
+du -n | grep -v '^\.git/'
+grep div /lib/keyboard
+host chrome
+host chrome github.com/catenate/compinvest
+host gedit ./20130225.221151
+host gedit scratch
+host git add .
+host git commit -a -m 'Python implementations of equations in first two weeks.'
+host git status
+nbnow
+rm *~

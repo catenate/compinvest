@@ -1,0 +1,10 @@
+import math
+
+#nb python code example calculate formula sharpe ratio mean return standard deviate
+#k = math.sqrt(250)	# days in a trading year
+k = math.sqrt(12)	# months in a trading year
+
+#daily_sharpe_ratio = daily_k * mean(rets) ÷ stdev(rets)
+sharpe_ratio = k * 0.01 ÷ 0.04
+
+print("sharpe ratio %.4f" % sharpe_ratio)
